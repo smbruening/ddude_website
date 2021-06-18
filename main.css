@@ -141,17 +141,13 @@ hr {
 }
 
 .cur_GalleryDiv, .old_GalleryDiv {
-    background-color: aqua;
     max-width: 820px;
 }
 
 .cur_GalleryDiv h2, .old_GalleryDiv h2 {
     font-size: 1.50em;
     font-weight: 200;
-}
-
-.old_GalleryDiv {
-    background-color: aquamarine;
+    padding-bottom: 0.5em;
 }
 
 .thumbnails {
